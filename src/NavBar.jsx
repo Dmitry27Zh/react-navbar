@@ -5,7 +5,7 @@ const Navbar = () => {
         Site Name
       </a>
       <ul>
-        <li>
+        <li className="active">
           <a href="/pricing">Pricing</a>
         </li>
         <li>
